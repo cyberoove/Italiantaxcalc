@@ -21,5 +21,5 @@ python tax_calculator.py
 
 4. Follow the prompts to enter your yearly gross pay in Euros. The program will then display the calculated taxes, living expenses, and suggested income distribution.
 
-Note
+Note: 
 The deductions used in the calculator assume the user is not married and has no dependents. Actual taxes may vary depending on individual circumstances and applicable deductions or tax credits.
