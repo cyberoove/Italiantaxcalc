@@ -23,3 +23,5 @@ python tax_calculator.py
 
 Note: 
 The deductions used in the calculator assume the user is not married and has no dependents. Actual taxes may vary depending on individual circumstances and applicable deductions or tax credits.
+FEEL FREE TO CHANGE THE LIFE EXPERIENCE VALUES IN THE CODE!!
+
